@@ -1,0 +1,12 @@
+[{
+    "name":"server1",
+    "ip" :"111"
+},{
+    "name":"server2",
+    "ip" :"222"
+
+},{
+    "name":"server3",
+    "ip":"333"
+}]
+
